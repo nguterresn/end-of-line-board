@@ -19,7 +19,7 @@ This design aims to test all the possible configurations for end of line:
 
 |             | **Single Resistor Line Shorted** | **Single Resistor Line Cut** | **Double Resistor** |
 |-------------|----------------------------------|------------------------------|---------------------|
-| **Opened**  |                 ✅                |               ✅              |          ✅          |
+| **Opened**  |                 <center>✅</center>                |               ✅              |          ✅          |
 | **Closed**  |                 ✅                |               ✅              |          ✅          |
 | **Shorted** |                 ✅                |               ❌              |          ✅          |
 | **Cut**     |                 ❌                |               ✅              |          ✅          |

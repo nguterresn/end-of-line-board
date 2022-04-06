@@ -1,7 +1,7 @@
 
 ## End Of Line Board for Testing
 
-![image](https://user-images.githubusercontent.com/38976366/162026893-708d8660-c541-425c-a064-5ceaf095eca3.png)
+![FO4LOj3WUAYNTAF?format=jpg name=large](https://user-images.githubusercontent.com/38976366/162028981-bbf3a0d9-4f4c-46dd-9886-34df5c543ee9.jpg)
 
 ### Quick Introduction
 

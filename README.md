@@ -17,9 +17,12 @@ This is very important in Alarm and Fire systems, where these four states are es
 
 This design aims to test all the possible configurations for end of line: 
 
-- **Single Resistor Line Shorted**. Catches **Opened**, **Closed** and **Shorted** states.
-- **Single Resistor Line Cut**. Catches **Opened**, **Closed** and **Cut**.
-- **Double Resistor**. Catches **Opened**, **Closed**, **Shorted** and **Cut**.
+|             | **Single Resistor Line Shorted** | **Single Resistor Line Cut** | **Double Resistor** |
+|-------------|----------------------------------|------------------------------|---------------------|
+| **Opened**  |                 ✅                |               ✅              |          ✅          |
+| **Closed**  |                 ✅                |               ✅              |          ✅          |
+| **Shorted** |                 ✅                |               ❌              |          ✅          |
+| **Cut**     |                 ❌                |               ✅              |          ✅          |
 
 There a is good [document here](https://github.com/nguterresn/end-of-line-board/blob/master/docs/EOL-Types.pdf) explaining the difference between configurations.
 

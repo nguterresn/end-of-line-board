@@ -28,4 +28,6 @@ There a is good [document here](https://github.com/nguterresn/end-of-line-board/
 
 ### 3D View
 
-![Captura de ecrã 2022-03-23, às 21 38 00](https://user-images.githubusercontent.com/38976366/159791269-87e48437-e6b4-4cde-8039-1bfdc40bc64f.png)
+![Screenshot 2023-06-08 at 16 34 57](https://github.com/nguterresn/end-of-line-board/assets/38976366/01084011-a794-48fa-b307-379a5e919cee)
+
+

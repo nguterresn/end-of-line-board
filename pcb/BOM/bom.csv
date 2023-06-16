@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC
+"MountingHole","H1,H2,H3,H4","MountingHole:MountingHole_3.2mm_M3_Pad_Via",""
+"Conn_01x06","J1","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-6_1x06_P5.00mm_Horizontal","C2802619"
+"2k2","R1,R2,R3","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","C5140136"
+"1k","R4","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","C3152127"
+"Slide_DPDT","SW1,SW2,SW3,SW4","Button_Switch_THT:SW_E-Switch_EG1271_DPDT","C2906278"
+"SW_Push_DPDT","SW5,SW6,SW7","External:MHPS2285","C493261"
